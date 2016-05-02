@@ -1,41 +1,46 @@
 
-#### 备份下载地址
+#### 素材备份下载地址
 听说国内的网盘最近要整改,原始链接文件如果丢失,可以点击下方链接进行下载.
+
  [2016开年大礼包！100套最新UI PSD素材打包下载](https://drive.google.com/file/d/0B89YgSoKRhNVVllMOUFyaGJnYzg/view?usp=sharing)
+ 
  [50个设计圈优质资源打包下载-上篇](https://drive.google.com/file/d/0B89YgSoKRhNVd0EyNVdFa0EtVnM/view?usp=sharing)
+ 
  [50个设计圈优质资源打包下载-下篇](https://drive.google.com/file/d/0B89YgSoKRhNVWkxIMFZHMFJFc1k/view?usp=sharing)
 
 链接需要翻墙,不懂翻墙的朋友按平台下载对应文件,安装使用.
+
  [Mac下载](https://github.com/qyxxjd/UI-Design-Resources/blob/master/tools/lantern-installer-beta.dmg?raw=true)
+ 
  [Android下载](https://github.com/qyxxjd/UI-Design-Resources/blob/master/tools/lantern-android-beta.apk?raw=true)
+ 
  [Windows下载](https://github.com/qyxxjd/UI-Design-Resources/blob/master/tools/lantern-installer-beta.exe?raw=true)
 
-
-[简书链接](http://www.jianshu.com/p/19ee6d325d88)
-
-## 优秀设计
+## [简书原文链接](http://www.jianshu.com/p/19ee6d325d88)
+## 优秀设计站点
 - #### [Dribbble](https://dribbble.com/LudmilaShevchenko#UI)
 设计师必备站点，国内顶尖的设计师都在上面
 ![](http://upload-images.jianshu.io/upload_images/1159778-208a4aa2edc8e3ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - #### [UI中国](http://www.ui.cn/)
-国内专业界面设计平台
+前身为iconfans,是国内专业的UI设计师交流、学习与展示的平台
 ![](http://upload-images.jianshu.io/upload_images/1159778-817603703901afa3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - #### [优设](http://www.uisdc.com/tag/app%E8%AE%BE%E8%AE%A1)
-优秀设计解决方案
+优秀网页设计联盟(SDC)，是有着良好职业交流氛围的网页设计行业联盟
 ![](http://upload-images.jianshu.io/upload_images/1159778-188cd8298026d9da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - #### [学UI网](http://app.xueui.cn/category/userprofiles)
+学UI网是一个发布高质量设计教程和分享设计经验的UI学习平台
 ![](http://upload-images.jianshu.io/upload_images/1159778-f796bac22fbfbf8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - #### [Yalantis](https://github.com/Yalantis)
-致力于提供世界一流的 Android 和 iOS 应用开发服务
+致力于提供世界一流的 Android 和 iOS 应用开发服务, 因一些动画很棒的开源库为大家所熟知
 ![](http://upload-images.jianshu.io/upload_images/1159778-8f2e4f203f06ff85.gif?imageMogr2/auto-orient/strip)
 ![](http://upload-images.jianshu.io/upload_images/1159778-5074067c49f7c115.gif?imageMogr2/auto-orient/strip)
 
 - #### [UI设计网](http://www.uisheji.com/250621.html/6)
-手机UI设计交互动画分享
+一个专业的用户界面设计、交互动画分享平台
 ![](http://upload-images.jianshu.io/upload_images/1159778-e41604fe56117fbe.gif?imageMogr2/auto-orient/strip)
 ![](http://upload-images.jianshu.io/upload_images/1159778-d52baa36ae254329.gif?imageMogr2/auto-orient/strip)
 
@@ -43,6 +48,18 @@
 2006年创立的著名设计社区，在上面，创意设计人士可以展示自己的作品，发现别人分享的创意作品，还可以进行互动。
 ![](http://upload-images.jianshu.io/upload_images/1159778-3e6f41547ca57095.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](http://upload-images.jianshu.io/upload_images/1159778-0ffbcc98c58b897e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- #### [UIparade](http://www.uiparade.com/)
+灵感UI设计网是一个致力于设计师UI设计作品分享的网站，提供很多有才华的设计师们的优秀作品，帮助设计师们获得UI方面的设计灵感，提供丰富的设计参考案例，同时还提供收费版的在线设计工具。
+
+- #### [Louie Mantia](http://louiemantia.com/)
+apple设计站点，网站提供免费的icon图片和桌面以及UI设计下载和使用。
+
+- #### [lovely ui](http://www.lovelyui.com/)
+可爱的UI手机界面设计站点,一个致力于智能手机界面设计作品展示的博客网站，由众多程序界面设计师上传分享出来的，该网站分类详细，用户可以更加分类来查看不同的界面UI设计，要想提高自己的设计能力就需要去取经，该网站就是你取经的必备网站之一。
+
+- #### [花瓣网](http://huaban.com/)
+设计师寻找灵感的天堂！图片素材领导者，帮你采集,发现网络上你喜欢的事物.
 
 ## 素材下载
 - #### [2016开年大礼包！100套最新UI PSD素材打包下载](http://www.uisdc.com/2016-100-daysui-psd?url_type=39&object_type=webpage&pos=1)
