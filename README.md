@@ -84,6 +84,9 @@ Google官方开源的Material Design图标，开发必备。
 MaterialUp 是一个展示最好的Material Design APP网站和概念的地方，每天都会更新。每款设计都精心挑选，展示那些有才华的设计师的伟大工作。 MaterialUp 的核心价值是让尽可能多的设计师提供有价值灵感。
 ![](http://upload-images.jianshu.io/upload_images/1159778-11518141097b0c57.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- ###### [Material Design Color 全新指南](https://material.io/guidelines/style/color.html#)
+它还允许开发者检查配色方案中任何文字是否清晰可辨。 Google采用了标准方法，该工具根据W3C的“Web内容无障碍指南”对每个方案进行判断。其中很大一部分重点在于开发者可以据此做出设计决策，以确保视觉障碍用户也可以清晰阅读。
+
 - ###### [Material Palette](http://www.materialpalette.com/blue/yellow)
 Material Palette 网站是一个致力于为设计师们提供颜色组合搭配的工具，让设计师轻松的选择自己喜欢的颜色，在线生成Metaerial Design 风格配色的搭配方案，让你从烦乱的颜色中筛选出一条极具创意的颜色组合。
 ![](http://upload-images.jianshu.io/upload_images/1159778-c697936bc0369a93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
