@@ -2,11 +2,11 @@
 #### 素材备份下载地址
 听说国内的网盘最近要整改,所以上传了一份到Google云盘,原始链接文件如果丢失,可以点击下方链接进行下载。
 
-[2016开年大礼包！100套最新UI PSD素材打包下载](https://drive.google.com/file/d/0B89YgSoKRhNVVllMOUFyaGJnYzg/view?usp=sharing)
+[2016开年大礼包！100套最新UI PSD素材打包下载](https://drive.google.com/file/d/0B89YgSoKRhNVVllMOUFyaGJnYzg/view?usp=sharing&resourcekey=0--mxuihVzmzWifgbZFFePwg)
  
-[50个设计圈优质资源打包下载-上篇](https://drive.google.com/file/d/0B89YgSoKRhNVd0EyNVdFa0EtVnM/view?usp=sharing)
+[50个设计圈优质资源打包下载-上篇](https://drive.google.com/file/d/0B89YgSoKRhNVd0EyNVdFa0EtVnM/view?usp=sharing&resourcekey=0-Vzz-RDuB4910gjF8JR3DKQ)
  
-[50个设计圈优质资源打包下载-下篇](https://drive.google.com/file/d/0B89YgSoKRhNVWkxIMFZHMFJFc1k/view?usp=sharing)
+[50个设计圈优质资源打包下载-下篇](https://drive.google.com/file/d/0B89YgSoKRhNVWkxIMFZHMFJFc1k/view?usp=sharing&resourcekey=0-wB2DaielqTf2lmj6CRqWhA)
 
 链接需要翻墙,不懂翻墙的朋友按平台下载对应文件,安装使用。
 
